@@ -1,84 +1,83 @@
 ---
-title: Planet CCCS
-kind: page
 blogposts:
-- user: princess
-  date: 2014-11-02 13:51:16.000000000 Z
-  title: Aloe Vera Pflanze (essbar) zu verschenken
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/404-Aloe-Vera-Pflanze-essbar-zu-verschenken.html
-- user: princess
-  date: 2014-10-15 19:10:27.000000000 Z
-  title: ! 'Eine Linux-Distri für Studierende: tubIT live'
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/403-Eine-Linux-Distri-fuer-Studierende-tubIT-live.html
-- user: princess
-  date: 2014-10-15 18:57:00.000000000 Z
-  title: Speichern unter...
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/401-Speichern-unter....html
+- user: Rince
+  date: 2019-08-20 21:14:00.000000000 Z
+  title: Die AG Kritis hat sich gegründet
+  url: https://blog.rince.de/archives/765-Die-AG-Kritis-hat-sich-gegruendet.html
+- user: Leibi
+  date: 2019-08-04 00:00:00.000000000 Z
+  title: Simple Keyboard - Vertrauenswürdige Android-Tastatur
+  url: https://stefan.leibfarth.org/posts/2019-08-04-vertrauenswuerdige-android-tastatur/
+- user: Leibi
+  date: 2019-08-03 22:00:00.000000000 Z
+  title: Simple Keyboard - Vertrauenswürdige Android-Tastatur
+  url: "/posts/2019-08-04-vertrauenswuerdige-android-tastatur/"
+- user: Rince
+  date: 2018-11-21 10:58:00.000000000 Z
+  title: Die Bahn und das Chaos mit Ersatzkarten
+  url: https://blog.rince.de/archives/764-Die-Bahn-und-das-Chaos-mit-Ersatzkarten.html
+- user: Leibi
+  date: 2018-10-20 12:00:00.000000000 Z
+  title: Das ‘Darknet’ und die Medienethik
+  url: "/posts/2018-10-20-CuU/"
+- user: Leibi
+  date: 2018-10-19 22:00:00.000000000 Z
+  title: Das ‘Darknet’ und die Medienethik
+  url: https://stefan.leibfarth.org/posts/2018-10-20-CuU/
+- user: Leibi
+  date: 2018-01-26 23:00:00.000000000 Z
+  title: Welt im Gurkenglas
+  url: https://stefan.leibfarth.org/posts/2018-01-27-glaswelt/
+- user: Leibi
+  date: 2018-01-26 23:00:00.000000000 Z
+  title: Etar für Android
+  url: https://stefan.leibfarth.org/posts/2018-01-27-etar/
+- user: Leibi
+  date: 2018-01-26 23:00:00.000000000 Z
+  title: Leibis Blog jetzt auch als Onion Service
+  url: https://stefan.leibfarth.org/posts/2018-01-27-blog-onion-adresse/
+- user: Leibi
+  date: 2018-01-26 23:00:00.000000000 Z
+  title: Welt im Gurkenglas
+  url: "/posts/2018-01-27-glaswelt/"
+- user: Leibi
+  date: 2018-01-26 23:00:00.000000000 Z
+  title: Etar für Android
+  url: "/posts/2018-01-27-etar/"
+- user: Leibi
+  date: 2018-01-26 23:00:00.000000000 Z
+  title: Leibis Blog jetzt auch als Onion Service
+  url: "/posts/2018-01-27-blog-onion-adresse/"
+- user: Rince
+  date: 2017-10-10 18:43:16.000000000 Z
+  title: 'Verschlüsselte Filesysteme unter Linux: Anlegen und vergrößern'
+  url: https://blog.rince.de/archives/763-Verschluesselte-Filesysteme-unter-Linux-Anlegen-und-vergroessern.html
+- user: Leibi
+  date: 2017-05-22 22:00:00.000000000 Z
+  title: Simple Gallery für Android
+  url: https://stefan.leibfarth.org/posts/2017-05-23-simple-gallery/
+- user: Leibi
+  date: 2017-05-22 22:00:00.000000000 Z
+  title: Simple Gallery für Android
+  url: "/posts/2017-05-23-simple-gallery/"
+- user: Rince
+  date: 2017-02-01 20:40:19.000000000 Z
+  title: 'AVM und IoT: Eine interessante Sichtweise?'
+  url: https://blog.rince.de/archives/761-AVM-und-IoT-Eine-interessante-Sichtweise.html
+- user: Rince
+  date: 2017-01-16 10:05:08.000000000 Z
+  title: Fake-News und der Aufschrei in sozialen Netzen
+  url: https://blog.rince.de/archives/760-Fake-News-und-der-Aufschrei-in-sozialen-Netzen.html
+- user: Leibi
+  date: 2017-01-03 23:00:00.000000000 Z
+  title: Noch können wir das
+  url: https://stefan.leibfarth.org/posts/2017-01-04-Zitat-heute-de/
+- user: Leibi
+  date: 2017-01-03 23:00:00.000000000 Z
+  title: Noch können wir das
+  url: "/posts/2017-01-04-Zitat-heute-de/"
 - user: Skyr
-  date: 2014-10-13 08:20:40.000000000 Z
-  title: Krautreporter - doch ein Abo?
-  url: http://stefan.ploing.de/2014-10-13-krautreporter-doch-ein-abo/
-- user: Skyr
-  date: 2014-09-30 08:12:11.000000000 Z
-  title: PEP -- Pretty Easy Privacy
-  url: http://stefan.ploing.de/2014-09-30-pep-pretty-easy-privacy/
-- user: princess
-  date: 2014-09-16 18:09:00.000000000 Z
-  title: Den Alltag normieren und ein besserer Mensch werden!
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/400-Den-Alltag-normieren-und-ein-besserer-Mensch-werden!.html
-- user: princess
-  date: 2014-09-09 17:44:00.000000000 Z
-  title: Briefkastenaufkleber für Dinge, die man verleiht
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/399-Briefkastenaufkleber-fuer-Dinge,-die-man-verleiht.html
-- user: princess
-  date: 2014-09-09 17:44:00.000000000 Z
-  title: Färbeexperimente 09/2014
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/398-Faerbeexperimente-092014.html
-- user: princess
-  date: 2014-09-06 11:41:14.000000000 Z
-  title: Gute Nachricht im Datenschutz beim Versandhandel
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/397-Gute-Nachricht-im-Datenschutz-beim-Versandhandel.html
-- user: princess
-  date: 2014-08-31 20:53:00.000000000 Z
-  title: ! 'Ann-Marlene Henning und Tina Bremer-Olszewski: Make Love'
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/396-Ann-Marlene-Henning-und-Tina-Bremer-Olszewski-Make-Love.html
-- user: princess
-  date: 2014-08-24 16:53:05.000000000 Z
-  title: ! 'Karen Perry: Bittere Luegen'
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/395-Karen-Perry-Bittere-Luegen.html
-- user: Skyr
-  date: 2014-08-19 07:24:48.000000000 Z
-  title: Firewall-Logs mit Logstash und Kibana visualisieren
-  url: http://stefan.ploing.de/2014-08-19-firewall-logs-logstash-kibana-visualisieren/
-- user: Skyr
-  date: 2014-08-13 09:54:23.000000000 Z
-  title: BadUSB -- der Vortrag
-  url: http://stefan.ploing.de/2014-08-13-bad-usb/
-- user: princess
-  date: 2014-08-12 12:09:28.000000000 Z
-  title: ! 'Marissa Mayer: Wie Monde so silbern'
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/394-Marissa-Mayer-Wie-Monde-so-silbern.html
-- user: princess
-  date: 2014-08-11 16:15:53.000000000 Z
-  title: ! 'Bernhard Hennen: Drachenelfen'
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/393-Bernhard-Hennen-Drachenelfen.html
-- user: princess
-  date: 2014-08-05 19:45:44.000000000 Z
-  title: ! 'Jan Weiler: Das Pubertier'
-  url: http://blog.querulantin.de/serendipity/index.php?/archives/392-Jan-Weiler-Das-Pubertier.html
-- user: Skyr
-  date: 2014-08-04 10:50:18.000000000 Z
-  title: TLS Performance-Tuning
-  url: http://stefan.ploing.de/2014-08-04-tls-performancetuning/
-- user: Skyr
-  date: 2014-08-02 07:16:44.000000000 Z
-  title: BadUSB -- eine Vorab-Einordnung
-  url: http://stefan.ploing.de/2014-08-02-bad-usb-vorabeinordnung/
-- user: Skyr
-  date: 2014-07-22 11:16:48.000000000 Z
-  title: Javaforum 2014
-  url: http://stefan.ploing.de/2014-07-22-javaforum-2014/
-- user: Skyr
-  date: 2014-07-08 06:23:35.000000000 Z
-  title: scm-version Plugin für Gradle 2.0 aktualisiert
-  url: http://stefan.ploing.de/2014-07-08-scmversion-plugin-gradle-2/
+  date: 2016-10-05 07:35:02.000000000 Z
+  title: sbt/activator via Proxy
+  url: http://stefan.ploing.de/2016-10-05-sbt-activator-via-proxy/
+kind: page

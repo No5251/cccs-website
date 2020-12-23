@@ -1,4 +1,6 @@
-# Webseitenquelltext [www.cccs.de](www.cccs.de)
+# Webseitenquelltext [www.cccs.de](https://www.cccs.de)
+
+[![Build Status](https://travis-ci.org/cccs/cccs-website.svg?branch=master)](https://travis-ci.org/cccs/cccs-website)
 
 ## Lizenzen
 
@@ -32,7 +34,7 @@ Software-Voraussetzungen:
 
 Sämtliche benötigten Abhängigkeiten werden durch den Aufruf von
 
-    bundle install
+    bundle install --path vendor/bundle
 
 installiert. Anschließend kann die Seite mittels
 

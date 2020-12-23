@@ -11,15 +11,17 @@ des Chaos Computer Clubs.
 Der aktuelle Vorstand (vorstand@cccs.de) besteht aus
 
 * Erster Vorsitzender: Hanno Wagner
-* Zweiter Vorsitzender: Christian Lott
-* Schatzmeister: Adrien Beaucreux
+* Zweiter Vorsitzender: Stefan Leibfarth
+* Schatzmeister: Christian Lott
 
 Hier gibt es die [Satzung des Vereins](CCCS-Satzung-20080417.pdf) als
 PDF zum Download.
 
+Hier ist das [Protokoll der Mitgliederversammlung 2017](/about/verein/mv2017/).
+
 ## Mitglied werden
 
-Mitglied werdden kannst Du durch Ausfüllen des [Mitgliedsantrag-PDFs](Mitgliedsantrag.pdf).
+Mitglied werden kannst Du durch Ausfüllen des [Mitgliedsantrag-PDFs](Mitgliedsantrag.pdf).
 Momentan erheben wir keinen eigenen Mitgliedsbeitrag, wir finanzieren
 uns durch Spenden und die sogenannte „Erfa-Rückerstattung“: Die lokalen
 CCC-Gruppen erhalten Unterstützung vom Bundes-CCC, sofern die Mitglieder
@@ -33,8 +35,8 @@ Chaosnummer (die Mitgliedsnummer des Bundes-CCC) ein.
 
     CCCS
     c/o Hanno Wagner
-    Neckarstraße 168b
-    70190 Stuttgart
+    Mittelfeldstraße 23
+    70806 Kornwestheim
 
 ## Bankverbindung
 

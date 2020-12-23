@@ -3,4 +3,7 @@
 .*.swp
 crash.log
 /.sass-cache
-
+/.bundle
+.rvmrc
+/vendor/*
+/mastodon-data.toml

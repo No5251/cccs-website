@@ -10,12 +10,13 @@ Vorkenntnisse wendet.
 
 Üblicherweise **jeden zweiten Donnerstag** im Monat sprechen **ab
 19.30 Uhr** (Einlass ab 19.00 Uhr) interne und externe Referenten zu
-ihren jeweiligen Themen; im Anschluss besteht bis gegen 22.00 Uhr noch
-die Möglichkeit zur Diskussion im Anschluss an den Vortrag..
+ihren jeweiligen Themen; danach besteht bis gegen 22.00 Uhr noch
+die Möglichkeit zur Diskussion im Anschluss an den Vortrag.
 
 Der **Eintritt** ist kostenlos; um **Spenden** wird gebeten.
 
-Eine Voranmeldung ist nicht erforderlich.
+Bitte beachtet die derzeit geltenden [Corona-Regelungen](/2020-06-10-vortragsreihe-coronaregelungen/).
+Dazu gehört insbesondere auch eine **Anmeldepflicht**!
 
 ## Danksagung
 
